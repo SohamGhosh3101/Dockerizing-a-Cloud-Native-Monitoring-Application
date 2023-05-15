@@ -1,5 +1,5 @@
 # **Dockerizing a Cloud Native Resource Monitoring Python App**
-## **A DevOps project by Ananya Mishra[RA2011003010679], Soham Ghosh [RA2011003010504] and Feenita C [RA2011003010506]
+### A DevOps project by Ananya Mishra[RA2011003010679], Soham Ghosh [RA2011003010504] and Feenita C [RA2011003010506]
 
 ##  Steps by Proccess: 
 
